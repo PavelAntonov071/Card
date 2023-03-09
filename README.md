@@ -1,6 +1,6 @@
 CardDeliveryOrder(dateChange)  [![Build status](https://ci.appveyor.com/api/projects/status/h2i41mgad7k3y4dg?svg=true)](https://ci.appveyor.com/project/Aleks4404/carddeliveryorderdatechange)
 
-# Домашнее задание к занятию «2.3. Patterns»
+# Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
 ## Задача №1 - Заказ доставки карты (изменение даты)
 
